@@ -120,3 +120,50 @@ git status
 vim index1.html
 git status
 git log
+
+.git
+git ls
+ls
+git init
+git log
+git status
+git add .
+git status
+git commit -m "adding file index1.html index2.html"
+git status
+git log --oneline
+git ls-files
+vim index1.html
+git status
+git add .
+git commit -a -m "adding modified files
+git status
+
+
+
+sudo su -
+
+ls
+git ls-files
+git log --oneline
+git status
+git commit -m "adding files index1.html"
+git status
+git commit -a -m "adding files
+
+
+
+
+
+
+
+
+
+
+
+
+
+clear
+exit
+comeout
+
