@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1711636089,,"wq!"
+|2,0,1711637118,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -24,40 +24,54 @@
 
 # Registers:
 ""-	CHAR	0
-	h
-|3,1,36,0,1,0,1711636061,"h"
+	i
+|3,1,36,0,1,0,1711637075,"i"
 
 # File marks:
-'0  2  0  ~/index1.html
-|4,48,2,0,1711636089,"~/index1.html"
-'1  2  0  ~/index2.html
-|4,49,2,0,1711635755,"~/index2.html"
-'2  2  0  ~/appcode/index3.html
-|4,50,2,0,1710878323,"~/appcode/index3.html"
-'3  2  35  ~/appcode/index1.html
-|4,51,2,35,1710875389,"~/appcode/index1.html"
-'4  1  26  ~/appcode/index1.html
-|4,52,1,26,1710875067,"~/appcode/index1.html"
-'5  1  26  ~/appcode/index1.html
-|4,53,1,26,1710875067,"~/appcode/index1.html"
-'6  1  23  ~/index1.html
-|4,54,1,23,1710874353,"~/index1.html"
-'7  1  23  ~/index1.html
-|4,55,1,23,1710874353,"~/index1.html"
-'8  1  0  /appcode/log
-|4,56,1,0,1710435756,"/appcode/log"
-'9  2  30  /appcode/index2.html
-|4,57,2,30,1710433720,"/appcode/index2.html"
+'0  4  0  ~/index1.html
+|4,48,4,0,1711637118,"~/index1.html"
+'1  2  0  ~/index1.html
+|4,49,2,0,1711636089,"~/index1.html"
+'2  2  0  ~/index1.html
+|4,50,2,0,1711636089,"~/index1.html"
+'3  2  0  ~/index2.html
+|4,51,2,0,1711635755,"~/index2.html"
+'4  2  0  ~/appcode/index3.html
+|4,52,2,0,1710878323,"~/appcode/index3.html"
+'5  2  35  ~/appcode/index1.html
+|4,53,2,35,1710875389,"~/appcode/index1.html"
+'6  1  26  ~/appcode/index1.html
+|4,54,1,26,1710875067,"~/appcode/index1.html"
+'7  1  26  ~/appcode/index1.html
+|4,55,1,26,1710875067,"~/appcode/index1.html"
+'8  1  23  ~/index1.html
+|4,56,1,23,1710874353,"~/index1.html"
+'9  1  23  ~/index1.html
+|4,57,1,23,1710874353,"~/index1.html"
 
 # Jumplist (newest first):
+-'  4  0  ~/index1.html
+|4,39,4,0,1711637118,"~/index1.html"
+-'  2  0  ~/index1.html
+|4,39,2,0,1711637041,"~/index1.html"
 -'  2  0  ~/index1.html
 |4,39,2,0,1711636089,"~/index1.html"
+-'  1  23  ~/index1.html
+|4,39,1,23,1711636027,"~/index1.html"
 -'  1  23  ~/index1.html
 |4,39,1,23,1711636027,"~/index1.html"
 -'  2  0  ~/index2.html
 |4,39,2,0,1711635755,"~/index2.html"
 -'  2  0  ~/index2.html
 |4,39,2,0,1711635755,"~/index2.html"
+-'  2  0  ~/index2.html
+|4,39,2,0,1711635755,"~/index2.html"
+-'  2  0  ~/index2.html
+|4,39,2,0,1711635755,"~/index2.html"
+-'  1  0  ~/index2.html
+|4,39,1,0,1711635690,"~/index2.html"
+-'  1  0  ~/index2.html
+|4,39,1,0,1711635690,"~/index2.html"
 -'  1  0  ~/index2.html
 |4,39,1,0,1711635690,"~/index2.html"
 -'  1  0  ~/index2.html
@@ -70,6 +84,22 @@
 |4,39,2,0,1710878323,"~/appcode/index3.html"
 -'  2  0  ~/appcode/index3.html
 |4,39,2,0,1710878323,"~/appcode/index3.html"
+-'  2  0  ~/appcode/index3.html
+|4,39,2,0,1710878323,"~/appcode/index3.html"
+-'  2  0  ~/appcode/index3.html
+|4,39,2,0,1710878323,"~/appcode/index3.html"
+-'  2  0  ~/appcode/index3.html
+|4,39,2,0,1710878323,"~/appcode/index3.html"
+-'  2  0  ~/appcode/index3.html
+|4,39,2,0,1710878323,"~/appcode/index3.html"
+-'  1  0  ~/appcode/index3.html
+|4,39,1,0,1710878259,"~/appcode/index3.html"
+-'  1  0  ~/appcode/index3.html
+|4,39,1,0,1710878259,"~/appcode/index3.html"
+-'  1  0  ~/appcode/index3.html
+|4,39,1,0,1710878259,"~/appcode/index3.html"
+-'  1  0  ~/appcode/index3.html
+|4,39,1,0,1710878259,"~/appcode/index3.html"
 -'  1  0  ~/appcode/index3.html
 |4,39,1,0,1710878259,"~/appcode/index3.html"
 -'  1  0  ~/appcode/index3.html
@@ -94,6 +124,22 @@
 |4,39,2,35,1710875389,"~/appcode/index1.html"
 -'  2  35  ~/appcode/index1.html
 |4,39,2,35,1710875389,"~/appcode/index1.html"
+-'  2  35  ~/appcode/index1.html
+|4,39,2,35,1710875389,"~/appcode/index1.html"
+-'  2  35  ~/appcode/index1.html
+|4,39,2,35,1710875389,"~/appcode/index1.html"
+-'  2  35  ~/appcode/index1.html
+|4,39,2,35,1710875389,"~/appcode/index1.html"
+-'  2  35  ~/appcode/index1.html
+|4,39,2,35,1710875389,"~/appcode/index1.html"
+-'  2  35  ~/appcode/index1.html
+|4,39,2,35,1710875389,"~/appcode/index1.html"
+-'  2  35  ~/appcode/index1.html
+|4,39,2,35,1710875389,"~/appcode/index1.html"
+-'  2  35  ~/appcode/index1.html
+|4,39,2,35,1710875389,"~/appcode/index1.html"
+-'  2  35  ~/appcode/index1.html
+|4,39,2,35,1710875389,"~/appcode/index1.html"
 -'  1  26  ~/appcode/index1.html
 |4,39,1,26,1710875333,"~/appcode/index1.html"
 -'  1  26  ~/appcode/index1.html
@@ -110,6 +156,38 @@
 |4,39,1,26,1710875333,"~/appcode/index1.html"
 -'  1  26  ~/appcode/index1.html
 |4,39,1,26,1710875333,"~/appcode/index1.html"
+-'  1  26  ~/appcode/index1.html
+|4,39,1,26,1710875333,"~/appcode/index1.html"
+-'  1  26  ~/appcode/index1.html
+|4,39,1,26,1710875333,"~/appcode/index1.html"
+-'  1  26  ~/appcode/index1.html
+|4,39,1,26,1710875333,"~/appcode/index1.html"
+-'  1  26  ~/appcode/index1.html
+|4,39,1,26,1710875333,"~/appcode/index1.html"
+-'  1  26  ~/appcode/index1.html
+|4,39,1,26,1710875333,"~/appcode/index1.html"
+-'  1  26  ~/appcode/index1.html
+|4,39,1,26,1710875333,"~/appcode/index1.html"
+-'  1  26  ~/appcode/index1.html
+|4,39,1,26,1710875333,"~/appcode/index1.html"
+-'  1  26  ~/appcode/index1.html
+|4,39,1,26,1710875333,"~/appcode/index1.html"
+-'  1  26  ~/appcode/index1.html
+|4,39,1,26,1710875067,"~/appcode/index1.html"
+-'  1  26  ~/appcode/index1.html
+|4,39,1,26,1710875067,"~/appcode/index1.html"
+-'  1  26  ~/appcode/index1.html
+|4,39,1,26,1710875067,"~/appcode/index1.html"
+-'  1  26  ~/appcode/index1.html
+|4,39,1,26,1710875067,"~/appcode/index1.html"
+-'  1  26  ~/appcode/index1.html
+|4,39,1,26,1710875067,"~/appcode/index1.html"
+-'  1  26  ~/appcode/index1.html
+|4,39,1,26,1710875067,"~/appcode/index1.html"
+-'  1  26  ~/appcode/index1.html
+|4,39,1,26,1710875067,"~/appcode/index1.html"
+-'  1  26  ~/appcode/index1.html
+|4,39,1,26,1710875067,"~/appcode/index1.html"
 -'  1  26  ~/appcode/index1.html
 |4,39,1,26,1710875067,"~/appcode/index1.html"
 -'  1  26  ~/appcode/index1.html
@@ -158,84 +236,6 @@
 |4,39,1,23,1710874353,"~/index1.html"
 -'  1  23  ~/index1.html
 |4,39,1,23,1710874353,"~/index1.html"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
--'  1  0  /appcode/log
-|4,39,1,0,1710435756,"/appcode/log"
 -'  1  0  /appcode/log
 |4,39,1,0,1710435756,"/appcode/log"
 -'  1  0  /appcode/log
@@ -254,12 +254,13 @@
 # History of marks within files (newest to oldest):
 
 > ~/index1.html
-	*	1711636080	0
-	"	2	0
-	^	2	0
-	.	2	0
+	*	1711637110	0
+	"	4	0
+	^	4	0
+	.	4	0
 	+	1	24
-	+	2	0
+	+	2	7
+	+	4	0
 
 > ~/index2.html
 	*	1711635747	0
